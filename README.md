@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emre Ulkem.
-- 👀 I’m interested in front-end development.
+- 👀 I’m interested in front-end and iOS development.
 - 🌱 I’m currently learning javascript.
 - 📫 emre.ulkem@outlook.com
 <!---
