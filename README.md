@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emre Ulkem.
 - 👀 I’m interested in front-end and iOS development.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript and swift.
 - 📫 emre.ulkem@outlook.com
 <!---
 emrlkem/emrlkem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
