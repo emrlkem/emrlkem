@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Javascript and iOS development, so I’m currently learning Javascript and Swift.
 
-- 📫 emre.ulkem@outlook.com
+- 📫 emre.ulkem.1@gmail.com
 
 <!---
 emrlkem/emrlkem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
