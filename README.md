@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emre Ulkem, 25 years old.
 
-- 👀 I’m interested in Javascript and iOS development, so I’m currently learning Swift.
+- 👀 I’m interested in Javascript and iOS development and I’m currently learning Swift.
 
 - 📫 emre.ulkem.1@gmail.com
 
