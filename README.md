@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Emre Ulkem, 25 years old.
+- 👋 Hi, I’m Emre Ulkem, 26 years old.
 
-- 👀 I’m interested in iOS development and I’m currently learning Swift on Coursera.
+- 👀 I am interested in mobile development especially iOS development and I am currently learning Swift on Coursera.
 
 - 📫 emre.ulkem.1@gmail.com
 
